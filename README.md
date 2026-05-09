@@ -6,3 +6,13 @@
 ## Day 02:
 - conditional statements 
 - 7 problems
+
+## Day 03:
+- Loops( while, for)
+- break and continue
+- 10 problems
+
+## Day 04:
+- Functions(return value, Lambda functions)
+- 11 problems
+- choice based calculator program
