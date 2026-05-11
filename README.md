@@ -24,3 +24,6 @@
 ## Day 06:
 - Strings
 - 11 problems
+
+## Day 07:
+- Mini project: Student Management System
