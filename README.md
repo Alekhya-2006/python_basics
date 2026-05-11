@@ -20,3 +20,7 @@
 ## Day 05:
 - 7 mixed problems
 - Number Guessing Game
+
+## Day 06:
+- Strings
+- 11 problems
