@@ -23,5 +23,8 @@ A structured repository documenting my Python learning journey through daily pra
 - Frequency Counting
 - Duplicate Removal
 - List Manipulation
+- Tuples
+- Dictionaries
+- Sets
 - Mini Project:
   - Even/Odd Counter Application
