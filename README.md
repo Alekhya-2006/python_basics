@@ -4,20 +4,23 @@ A structured repository documenting my Python learning journey through daily pra
 
 ---
 
-# Progress Overview
+# Learning Progress
 
 ## Week 01
+### Topics Covered
 - Python Fundamentals
 - Conditional Statements
 - Loops
 - Functions
 - Strings
-- Mini Projects:
-  - Choice Based Calculator
-  - Number Guessing Game
-  - Student Management System
+
+### Mini Projects:
+- Choice Based Calculator
+- Number Guessing Game
+- Student Management System
 
 ## Week 02
+### Topics Covered
 - Lists
 - Searching
 - Frequency Counting
@@ -26,5 +29,7 @@ A structured repository documenting my Python learning journey through daily pra
 - Tuples
 - Dictionaries
 - Sets
-- Mini Project:
-  - Even/Odd Counter Application
+
+### Mini Projects:
+- Even/Odd Counter Application
+- Student Marks Management System
