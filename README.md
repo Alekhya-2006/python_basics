@@ -7,6 +7,7 @@ A structured repository documenting my Python learning journey through daily pra
 # Learning Progress
 
 ## Week 01
+
 ### Topics Covered
 - Python Fundamentals
 - Conditional Statements
@@ -14,22 +15,32 @@ A structured repository documenting my Python learning journey through daily pra
 - Functions
 - Strings
 
-### Mini Projects:
+### Mini Projects
 - Choice Based Calculator
 - Number Guessing Game
 - Student Management System
 
-## Week 02
-### Topics Covered
-- Lists
-- Searching
-- Frequency Counting
-- Duplicate Removal
-- List Manipulation
-- Tuples
-- Dictionaries
-- Sets
 
-### Mini Projects:
+## Week 02
+
+### Topics Covered
+- Lists and List Operations
+- Tuples
+- Dictionaries and Dictionary Methods
+- Sets and Set Operations
+- Basic OOP Concepts
+  - Classes
+  - Objects
+  - Constructors
+  - Attributes
+  - Instance Methods
+  - Class Methods
+  - Static Methods
+  - Class Variables
+
+### Mini Projects
 - Even/Odd Counter Application
 - Student Marks Management System
+- Product Store Program
+- Bank Account System
+- Online Store System

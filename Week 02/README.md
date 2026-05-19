@@ -20,21 +20,58 @@
 ## Day 02
 ### Topics Covered
 - Tuples
-- Tuple methods
+- Tuple Methods
 - Dictionaries
-- dict methods
-- sets
-- set methods
+- Dictionary Methods
+- Sets
+- Set Methods
 
 ### Practice
-- solved 7 tuple problems
-- Student Enrollment program
+- Solved 7 tuple problems
+- Student Enrollment Program
 ---
 
 ## Day 03
-### practice
-- solved 8 set problems
-- solved 7 dictionary problems
+### Practice
+- Solved 8 set problems
+- Solved 7 dictionary problems
 
-### Mini project
-- Menu- driven Student Marks Management system
+### Mini Project
+- Menu-Driven Student Marks Management System
+---
+
+## Day 04
+### Topics Covered
+- Basic OOP Concepts
+- Classes 
+- Objects
+- Constructors
+- Attributes
+- Methods 
+  - Instance Methods
+  - Class Methods
+  - Static Methods
+
+### Mini Project
+- Product Store Program
+---
+
+## Day 05
+### Practice Prograns
+- Student Class Program
+- Rectangle Class Program
+- Employee Class Program
+- Library Book System
+
+### Mini Project
+- Bank Account System
+---
+
+## Day 06
+### Practice Programs
+- Circle Class Program
+- Temperature Converter Program
+- User Registration System
+
+### Mini Project
+- Online Store System
