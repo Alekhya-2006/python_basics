@@ -28,15 +28,25 @@ A structured repository documenting my Python learning journey through daily pra
 - Tuples
 - Dictionaries and Dictionary Methods
 - Sets and Set Operations
-- Basic OOP Concepts
-  - Classes
-  - Objects
-  - Constructors
-  - Attributes
-  - Instance Methods
-  - Class Methods
-  - Static Methods
-  - Class Variables
+
+### OOP Concepts Covered
+- Classes
+- Objects
+- Constructors
+- Attributes
+- Instance Methods
+- Class Methods
+- Static Methods
+- Class Variables
+- Encapsulation
+- Inheritance
+  - Single Inheritance
+  - Multi-Level Inheritance
+  - Multiple Inheritance
+- Abstraction
+- Polymorphism
+- Function Overriding
+- Duck Typing
 
 ### Mini Projects
 - Even/Odd Counter Application

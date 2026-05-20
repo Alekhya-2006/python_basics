@@ -75,3 +75,33 @@
 
 ### Mini Project
 - Online Store System
+---
+
+## Day 07
+### Topics Covered
+- Encapsulation
+- Access Modifiers
+  - Public Attributes
+  - Protected Attributes
+  - Private Attributes
+- Inheritance
+  - Single Inheritance
+  - Multi-Level Inheritance
+  - Multiple Inheritance
+- Abstraction
+- Abstract Classes (`abc` module)
+- Polymorphism
+- Function Overriding
+- Duck Typing
+
+### Practice Programs
+- Bank Account Encapsulation System
+- Employee Inheritance System
+- Employee Multi-Level Inheritance System
+- Teaching Assistant Multiple Inheritance System
+- Animal Sound Abstraction System
+- Function Overriding Program
+- Duck Typing Program
+
+### Notes
+- OOP Pillars Summary
