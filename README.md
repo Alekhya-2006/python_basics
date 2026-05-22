@@ -54,3 +54,31 @@ A structured repository documenting my Python learning journey through daily pra
 - Product Store Program
 - Bank Account System
 - Online Store System
+
+
+## Week 03
+
+### Topics Covered
+- Encapsulation
+  - Getters
+  - Setters
+  - Validation
+  - Private Attributes
+- Function Overriding
+- Inheritance
+- Abstraction
+- Constructor Overloading (using default parameters)
+
+### OOP Concepts Practiced
+- Method Overriding
+- super()
+- Abstract Classes
+- Polymorphism
+- Data Hiding
+
+### Practice Programs
+- Student Encapsulation System
+- Shape Area Calculator (Function Overriding)
+- Vehicle Inheritance System
+- Employee Salary Abstraction System
+- Person Constructor Overloading System
