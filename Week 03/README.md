@@ -26,3 +26,20 @@
 - Vehicle Inheritance System
 - Employee Salary Abstraction System
 - Person Constructor Overloading System
+
+
+## Day 02
+
+### Topics Covered
+- OOP Mini Project
+- Object Interaction
+- Menu-Driven Program
+
+### Concepts Practiced
+- Classes and Objects
+- Lists
+- Dictionaries
+- Validation
+
+### Mini Project
+- OOP Chat System

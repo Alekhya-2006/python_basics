@@ -82,3 +82,6 @@ A structured repository documenting my Python learning journey through daily pra
 - Vehicle Inheritance System
 - Employee Salary Abstraction System
 - Person Constructor Overloading System
+
+### Mini Project
+- OOP Chat System
