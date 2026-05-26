@@ -68,6 +68,9 @@ A structured repository documenting my Python learning journey through daily pra
 - Inheritance
 - Abstraction
 - Constructor Overloading (using default parameters)
+- Exception Handling
+- File Handling
+- JSON Basics
 
 ### OOP Concepts Practiced
 - Method Overriding
@@ -82,6 +85,12 @@ A structured repository documenting my Python learning journey through daily pra
 - Vehicle Inheritance System
 - Employee Salary Abstraction System
 - Person Constructor Overloading System
+- Exception Handling Example
+- File Read & Write
+- File Append & Delete
+- Word Search in File
+- JSON Conversion
+- JSON File Operations
 
 ### Mini Project
 - OOP Chat System

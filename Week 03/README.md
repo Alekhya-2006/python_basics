@@ -27,7 +27,6 @@
 - Employee Salary Abstraction System
 - Person Constructor Overloading System
 
-
 ## Day 02
 
 ### Topics Covered
@@ -43,3 +42,18 @@
 
 ### Mini Project
 - OOP Chat System
+
+## Day 03
+
+### Topics Covered
+- Exceptions
+- File Handling
+- JSON Basics
+
+### Practice Programs
+- File Read & Write
+- File Append & Delete
+- Word Search in File
+- Exception Handling
+- JSON Conversion
+- JSON File Operations
