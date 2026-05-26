@@ -1,0 +1,10 @@
+{
+    "name": "Alekhya",
+    "age": 20,
+    "isStudent": true,
+    "address":{
+        "city": "Vizag",
+        "Country": "India"
+    },
+    "Subject": "Python"
+}
